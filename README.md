@@ -72,3 +72,16 @@ python map_drawer.py
 1. **Drawing a Wall:** Select the "Wall" tool from the top toolbar. Click and drag on the canvas. To curve a wall, switch to the "Select" tool, right-click the wall, and choose "Adjust Curvature," or drag its midpoint handle.
 2. **Drawing a Room:** Select the "Room" tool. Click and drag to define the rectangular space. Right-click the room to change its dimensions, alter its color, or designate it as the base House Structure.
 3. **Exact Measurements:** If you need a wall of a specific length, type the length (in feet) into the "Wall Length" box in the toolbar and click "Create Wall". Click anywhere on the canvas to place the starting point, then drag to define its direction.
+
+## Contributing
+
+Contributions are highly encouraged! Whether it's adding new tools, improving the user interface, optimizing performance, or fixing bugs, your help is welcome to make this application even better. 
+
+To contribute:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix (`git checkout -b feature/AmazingFeature`).
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the branch (`git push origin feature/AmazingFeature`).
+5. Open a Pull Request.
+
+If you have a feature request or find a bug but don't want to write the code yourself, please feel free to open an issue!
